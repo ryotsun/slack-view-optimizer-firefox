@@ -1,0 +1,28 @@
+{
+  "appName": {
+    "message": "Slack View Optimizer",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "This extension provides you better experiences on Slack!",
+    "description":"The description of the application, displayed in the web store."
+  },
+  "optionUnread": {
+    "message": "Insert a number of unread channels into the tab area"
+  },
+  "optionHighlight": {
+    "message": "Change background color that you were mentioned"
+  },
+  "optionHighlightRule": {
+    "message": "Change background color if it contains keywords, even if it doesn't contain `@` on your user name"
+  },
+  "optionStar": {
+    "message": "Keep \"Starred List\" compact"
+  },
+  "optionSave": {
+    "message": "Save"
+  },
+  "optionSaved": {
+    "message": "Saved!"
+  }
+}

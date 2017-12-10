@@ -1,0 +1,24 @@
+.read_more {
+    display: block;
+    margin: 0;
+    text-align: center;
+    height: 20px;
+    line-height: 20px;
+    background-color: #eeeeee;
+    cursor: pointer;
+}
+
+#msgs_div ts-message {
+    border-top: 1px solid #eeeeee !important;
+}
+
+#messages_container .monkey_scroll_bar {
+    z-index: 100;
+}
+
+.hl-mention {
+    background-color: rgba(255, 243, 184, 0.6);
+}
+.hl-mention:hover {
+    background-color: rgba(255, 243, 184, 0.8) !important;
+}

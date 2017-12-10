@@ -1,0 +1,32 @@
+ul,li{
+    margin: 0;
+    padding: 5px 0;
+    list-style: none;
+}
+
+h1 {
+    font-size: 14px;
+    text-align: center;
+}
+
+#unread-room-num, #change-bg-color, #star-list, #copy-link, label, #save {
+    cursor: pointer;
+}
+
+#save {
+    display: block;
+    float: left;
+    margin: 10px 0;
+    width: 60px;
+    height: 30px;
+}
+
+#saved {
+    color: red;
+    display: none;
+    float: left;
+    line-height: 30px;
+    margin: 10px 0;
+    text-indent: 1em;
+    font-weight: bold;
+}

@@ -1,0 +1,28 @@
+{
+  "appName": {
+    "message": "Slack 表示最適化ツール",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Slack の表示を最適化し、より見やすくします。", 
+    "description":"The description of the application, displayed in the web store."
+  },
+  "optionUnread": {
+    "message": "タブに未読チャンネル数を表示する"
+  },
+  "optionHighlight": {
+    "message": "メンションされたメッセージに背景色をつける"
+  },
+  "optionHighlightRule": {
+    "message": "キーワード、または「@」が含まれていなユーザー名にも背景色をつける"
+  },
+  "optionStar": {
+    "message": "スター一覧のメッセージを折りたたむ"
+  },
+  "optionSave": {
+    "message": "保存"
+  },
+  "optionSaved": {
+    "message": "保存しました"
+  }
+}
